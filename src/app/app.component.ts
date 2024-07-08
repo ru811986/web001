@@ -9,5 +9,6 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'web001';
+  title = 'Página con Angular';
+  navbar = ["Presentación", "Mi Curriculum Vitae", "Contacto"];
 }
